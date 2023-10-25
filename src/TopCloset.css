@@ -1,6 +1,31 @@
-.image {
+.image2 {
     height: 200px;
-    margin-top: -100px;
-    background-color: black;
-    padding: 0px -10px 0 -10px;
+    z-index: 100;
+    position: absolute;
+    margin-top: -620px;
+    margin-left: -290px;
+}
+
+.image3 {
+    height: 200px;
+    z-index: 100;
+    position: absolute;
+    margin-top: -470px;
+    margin-left: -340px;
+}
+
+.image4 {
+    height: 200px;
+    z-index: 100;
+    position: absolute;
+    margin-top: -320px;
+    margin-left: -315px;
+}
+
+.image5 {
+    height: 200px;
+    z-index: 100;
+    position: absolute;
+    margin-top: -170px;
+    margin-left: -340px;
 }

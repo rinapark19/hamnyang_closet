@@ -1,5 +1,5 @@
 .bodyImage {
-    height: 500px;
-    margin-top: 220px;
-    position: relative;
+    height: 350px;
+    position: absolute;
+    margin-top: -330px;
 }
