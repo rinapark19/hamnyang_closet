@@ -2,7 +2,7 @@
   "name": "hamnyang_closet",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rinapark19.github.io/hamnyang_closet",
+  "homepage": "https://rinapark19.github.io/hamnyang_closet/index.html",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
