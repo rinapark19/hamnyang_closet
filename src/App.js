@@ -15,15 +15,9 @@ function App() {
 
   return (
     <div className="App">
-      <BrowserView>
-        <img src={backgroundImage} className='bg'/>
+      <img src={backgroundImage} className='bg'/>
         <TopCloset changeImage={changeBodyImage}/>
         <Body bodyImage={currentImage}/>
-      </BrowserView>
-      <MobileView>
-        <TopCloset changeImage={changeBodyImage}/>
-        <Body bodyImage={currentImage}/>
-      </MobileView>
     </div>
   );
 }
