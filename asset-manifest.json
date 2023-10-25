@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/hamnyang_closet/static/css/main.25dce7e5.css",
+    "main.css": "/hamnyang_closet/static/css/main.80a5f216.css",
     "main.js": "/hamnyang_closet/static/js/main.bd792d5d.js",
     "static/js/787.2e0e960c.chunk.js": "/hamnyang_closet/static/js/787.2e0e960c.chunk.js",
     "static/media/bg.png": "/hamnyang_closet/static/media/bg.ca7bff31839e4f34b445.png",
@@ -14,12 +14,12 @@
     "static/media/close2.png": "/hamnyang_closet/static/media/close2.e31db877e8bec9f8965d.png",
     "static/media/close4.png": "/hamnyang_closet/static/media/close4.a9afd6e94563ec790c13.png",
     "index.html": "/hamnyang_closet/index.html",
-    "main.25dce7e5.css.map": "/hamnyang_closet/static/css/main.25dce7e5.css.map",
+    "main.80a5f216.css.map": "/hamnyang_closet/static/css/main.80a5f216.css.map",
     "main.bd792d5d.js.map": "/hamnyang_closet/static/js/main.bd792d5d.js.map",
     "787.2e0e960c.chunk.js.map": "/hamnyang_closet/static/js/787.2e0e960c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.25dce7e5.css",
+    "static/css/main.80a5f216.css",
     "static/js/main.bd792d5d.js"
   ]
 }
