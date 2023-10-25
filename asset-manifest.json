@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/hamnyang_closet/static/css/main.25dce7e5.css",
-    "main.js": "/hamnyang_closet/static/js/main.6ffde926.js",
-    "static/js/787.2e0e960c.chunk.js": "/hamnyang_closet/static/js/787.2e0e960c.chunk.js",
-    "static/media/bg.png": "/hamnyang_closet/static/media/bg.ca7bff31839e4f34b445.png",
-    "static/media/closed3.png": "/hamnyang_closet/static/media/closed3.d4ae9034571ec0239199.png",
-    "static/media/closed5.png": "/hamnyang_closet/static/media/closed5.7f824c674634d47f0fb3.png",
-    "static/media/closed2.png": "/hamnyang_closet/static/media/closed2.cff3731bbd002e82c771.png",
-    "static/media/closed4.png": "/hamnyang_closet/static/media/closed4.bdae4f4b636be037ecf6.png",
-    "static/media/body.png": "/hamnyang_closet/static/media/body.bb99004c4e5cb7d8a02f.png",
-    "static/media/close3.png": "/hamnyang_closet/static/media/close3.e73ff98125090f2ca534.png",
-    "static/media/close5.png": "/hamnyang_closet/static/media/close5.3b387204117c8d2dde08.png",
-    "static/media/close2.png": "/hamnyang_closet/static/media/close2.e31db877e8bec9f8965d.png",
-    "static/media/close4.png": "/hamnyang_closet/static/media/close4.a9afd6e94563ec790c13.png",
-    "index.html": "/hamnyang_closet/index.html",
-    "main.25dce7e5.css.map": "/hamnyang_closet/static/css/main.25dce7e5.css.map",
-    "main.6ffde926.js.map": "/hamnyang_closet/static/js/main.6ffde926.js.map",
-    "787.2e0e960c.chunk.js.map": "/hamnyang_closet/static/js/787.2e0e960c.chunk.js.map"
+    "main.css": "/hamnyang_closet/index.html/static/css/main.6b206633.css",
+    "main.js": "/hamnyang_closet/index.html/static/js/main.90bae57b.js",
+    "static/js/787.2e0e960c.chunk.js": "/hamnyang_closet/index.html/static/js/787.2e0e960c.chunk.js",
+    "static/media/bg.png": "/hamnyang_closet/index.html/static/media/bg.ca7bff31839e4f34b445.png",
+    "static/media/closed3.png": "/hamnyang_closet/index.html/static/media/closed3.d4ae9034571ec0239199.png",
+    "static/media/closed5.png": "/hamnyang_closet/index.html/static/media/closed5.7f824c674634d47f0fb3.png",
+    "static/media/closed2.png": "/hamnyang_closet/index.html/static/media/closed2.cff3731bbd002e82c771.png",
+    "static/media/closed4.png": "/hamnyang_closet/index.html/static/media/closed4.bdae4f4b636be037ecf6.png",
+    "static/media/body.png": "/hamnyang_closet/index.html/static/media/body.bb99004c4e5cb7d8a02f.png",
+    "static/media/close3.png": "/hamnyang_closet/index.html/static/media/close3.e73ff98125090f2ca534.png",
+    "static/media/close5.png": "/hamnyang_closet/index.html/static/media/close5.3b387204117c8d2dde08.png",
+    "static/media/close2.png": "/hamnyang_closet/index.html/static/media/close2.e31db877e8bec9f8965d.png",
+    "static/media/close4.png": "/hamnyang_closet/index.html/static/media/close4.a9afd6e94563ec790c13.png",
+    "index.html": "/hamnyang_closet/index.html/index.html",
+    "main.6b206633.css.map": "/hamnyang_closet/index.html/static/css/main.6b206633.css.map",
+    "main.90bae57b.js.map": "/hamnyang_closet/index.html/static/js/main.90bae57b.js.map",
+    "787.2e0e960c.chunk.js.map": "/hamnyang_closet/index.html/static/js/787.2e0e960c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.25dce7e5.css",
-    "static/js/main.6ffde926.js"
+    "static/css/main.6b206633.css",
+    "static/js/main.90bae57b.js"
   ]
 }
