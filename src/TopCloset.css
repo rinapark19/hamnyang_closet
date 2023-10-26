@@ -1,31 +1,39 @@
-.image2 {
-    height: 150px;
+.image1 {
+    height: 110px;
     z-index: 100;
     position: absolute;
-    margin-top: -450px;
-    margin-left: -210px;
+    margin-top: -190px;
+    margin-left: -20px;
+}
+
+.image2 {
+    height: 110px;
+    z-index: 100;
+    position: absolute;
+    margin-top: -320px;
+    margin-left: -150px;
 }
 
 .image3 {
-    height: 150px;
+    height: 110px;
     z-index: 100;
     position: absolute;
-    margin-top: -350px;
-    margin-left: -250px;
+    margin-top: -240px;
+    margin-left: -175px;
 }
 
 .image4 {
-    height: 150px;
+    height: 110px;
     z-index: 100;
     position: absolute;
-    margin-top: -230px;
-    margin-left: -230px;
+    margin-top: -170px;
+    margin-left: -165px;
 }
 
 .image5 {
-    height: 150px;
+    height: 110px;
     z-index: 100;
     position: absolute;
-    margin-top: -130px;
-    margin-left: -245px;
+    margin-top: -100px;
+    margin-left: -175px;
 }

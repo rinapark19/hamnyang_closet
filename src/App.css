@@ -4,7 +4,7 @@
 
 .bg {
   background-image: url("./img/bg.png");
-  height: 500px;
+  height: 350px;
   position: relative;
   z-index: -100;
 
